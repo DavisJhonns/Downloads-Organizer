@@ -1,0 +1,15 @@
+# Git ignore for Downloads Organizer
+
+# Visual Studio / .NET generated files
+.vs
+
+# Build results
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Logs
+*.log
