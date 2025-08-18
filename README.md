@@ -1,10 +1,10 @@
-﻿# WinForms Downloads Organizer (MVP, OOP)
+# WinForms Downloads Organizer (MVP, OOP)
 
 A Windows Forms application built using the MVP pattern and object-oriented principles to organize downloaded files dynamically.
 
 ## Features
 
-- **Automatic Categorization:** Classifies files into Documents, Images, Videos, Audio, Installers, Archives, Code, and Other categories based on file extensions.
+- **Automatic Categorization:** Classifies files into Documents, Images, Videos, Audio, Executables, Archives, Code, and Other categories based on file extensions.
 - **Dynamic Subfolders:** Creates subfolders for each file extension automatically within their category folder.
 - **MVP Architecture:** Uses the Model-View-Presenter pattern for clean separation of UI and business logic.
 - **Flexible & Extensible:** Easily extendable to support more file types or custom categorization rules.
